@@ -1,0 +1,5 @@
+nmap
+request
+bs4
+Pillow
+smtplib
